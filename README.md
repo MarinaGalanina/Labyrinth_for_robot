@@ -1,6 +1,6 @@
 # Solve the maze
 Project includes simulation of micromouse robot. Micromouse is an event where small robot mice solve a 16×16 maze. E-puck is used like a simulation robot.
-
+![abyrynt](https://user-images.githubusercontent.com/100734139/223844654-1980937e-ffef-42c2-9e82-669ebf6b850c.jpg)
 ## Environment
 * Maze: 16x16
 * Cells are squares and have four corners
